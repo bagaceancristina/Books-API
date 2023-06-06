@@ -1,10 +1,10 @@
-﻿<Properties StartupConfiguration="{11733A7A-4A29-4C2F-884B-FE9B30A5CA53}|Default">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{11733A7A-4A29-4C2F-884B-FE9B30A5CA53}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Books/Models/Book.cs">
     <Files>
       <File FileName="Books/Controllers/BookController.cs" />
       <File FileName="Books/Views/Book/Edit.cshtml" />
       <File FileName="Books/Views/Book/Create.cshtml" />
-      <File FileName="Books/Models/Book.cs" Line="25" Column="1" />
+      <File FileName="Books/Models/Book.cs" Line="3" Column="1" />
       <File FileName="Books/Views/Shared/_ValidationScriptsPartial.cshtml" />
     </Files>
     <Pads>
@@ -13,9 +13,7 @@
           <Node name="Books" expanded="True">
             <Node name="Books" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True">
-                <Node name="Book.cs" selected="True" />
-              </Node>
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Book" expanded="True" />
                 <Node name="Home" expanded="True" />
