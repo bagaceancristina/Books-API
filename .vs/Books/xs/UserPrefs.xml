@@ -13,7 +13,9 @@
           <Node name="Books" expanded="True">
             <Node name="Books" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Models" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Book.cs" selected="True" />
+              </Node>
               <Node name="Views" expanded="True">
                 <Node name="Book" expanded="True" />
                 <Node name="Home" expanded="True" />
